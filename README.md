@@ -18,12 +18,24 @@ Include your ER diagram here
 Write your own steps
 
 ## PROGRAM
+```
+<html>
+    <head></head>
+    <body>
+        <h1>
+            Welcome to Saveetha Engineering College
+        </h1>
+    </body>
+</html>
+```
 
 Include your code here
 
 ## OUTPUT
 
 Include the screenshot of your admin page.
+![Screenshot 2023-05-14 164911](https://github.com/Hanumanth26/django-orm-app/assets/121033192/9e0b3180-454e-4216-9406-1e6123342edc)
+
 
 
 ## RESULT
